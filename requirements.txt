@@ -1,0 +1,5 @@
+selene
+pytest
+pydantic-settings
+pydantic
+python-dotenv
